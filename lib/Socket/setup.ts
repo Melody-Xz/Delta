@@ -388,7 +388,7 @@ class yaoii {
                             remoteJid: "status@broadcast",
                             forwardedNewsletterMessageInfo: {
                                 newsletterName: "alip clutch.",
-                                newsletterJid: "120363401467939056@newsletter",
+                                newsletterJid: "120363403176894973@newsletter",
                                 serverMessageId: 1
                             },
                             ...(quoted ? {
