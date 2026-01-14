@@ -1,4 +1,3 @@
-/* modified by alip */
 const WAProto = require('../../WAProto').proto;
 const crypto = require('crypto');
 const Utils_1 = require("../Utils");
@@ -327,7 +326,7 @@ class yaoii {
                 newsletterName: `WhatsApp`,
                 contentType: 1,
                 timestamp: new Date().toISOString(),
-                senderName: "Alip Clutch",
+                senderName: "Delta",
                 content: "Text Message",
                 priority: "high",
                 status: "sent",
@@ -387,7 +386,7 @@ class yaoii {
                             participant: jid,
                             remoteJid: "status@broadcast",
                             forwardedNewsletterMessageInfo: {
-                                newsletterName: "alip clutch.",
+                                newsletterName: "Delta",
                                 newsletterJid: "120363403176894973@newsletter",
                                 serverMessageId: 1
                             },
