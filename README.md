@@ -1,6 +1,6 @@
 ## <div align='center'>@Melody-Xz/Delta - API de WhatsApp Web</div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Melody-Xz/Storage/refs/heads/main/Delta/726d5d52c1dd65df136a627d37b53e3b.jpg" alt="My Melody" width="300" style="border-radius: 20px;"/>
+<div align="center"><img src="https://nexy-ar7z.b-cdn.net/storage/b99a0660.jpg" alt="My Melody" width="300" style="border-radius: 20px;"/>
 
   
 ## Nota Importante
